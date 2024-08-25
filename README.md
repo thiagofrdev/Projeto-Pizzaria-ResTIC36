@@ -8,12 +8,11 @@ Para executar a aplicação, siga os seguintes passos:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+   git clone git@github.com:thiagofrdev/Projeto-Pizzaria-ResTIC36.git
    
-2. **Navegue até o diretório do projeto**:
-
+2. **Execute o arquivo 'index.html'**:
     ```bash
-    cd seurepositorio
+    index.html
 
 Abra o arquivo index.html em seu navegador. Não é necessário realizar nenhuma configuração adicional, pois a aplicação é totalmente estática e pode ser visualizada localmente.
 
