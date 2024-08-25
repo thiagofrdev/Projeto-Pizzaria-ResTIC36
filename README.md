@@ -2,19 +2,52 @@
 
 Este é um projeto de um site fictício de uma pizzaria desenvolvido com técnicas de responsividade em CSS e com funcionalidades em TypeScript para o carrinho de compras e a seleção do tipo de pizza no menu. Este site foi desenvolvido como um mini projeto avaliativo para Unidade 3 (JavaScript) da Residência em Software TIC36
 
-## Instruções de Execução
+# Instruções para Executar o Projeto
 
-Para executar a aplicação, siga os seguintes passos:
+Para executar o projeto do site da pizzaria, siga os passos abaixo:
 
-1. **Clone o repositório**:
-   ```bash
-   git clone git@github.com:thiagofrdev/Projeto-Pizzaria-ResTIC36.git
-   
-2. **Execute o arquivo 'index.html'**:
-    ```bash
-    index.html
+## 1. Clonar o Repositório
 
-Abra o arquivo index.html em seu navegador. Não é necessário realizar nenhuma configuração adicional, pois a aplicação é totalmente estática e pode ser visualizada localmente.
+1. **Abra o Terminal ou Prompt de Comando**:
+   - No Windows, você pode usar o **Prompt de Comando** ou **Git Bash**.
+   - No macOS ou Linux, use o **Terminal**.
+
+2. **Clone o Repositório**:
+   - Execute o comando abaixo para clonar o repositório para o seu computador:
+     ```bash
+     git clone git@github.com:thiagofrdev/Projeto-Pizzaria-ResTIC36.git
+     ```
+   - Este comando criará uma cópia local do repositório no diretório atual.
+
+3. **Navegue até o Diretório do Projeto**:
+   - Entre no diretório do projeto clonado:
+     ```bash
+     cd Projeto-Pizzaria-ResTIC36
+     ```
+
+## 2. Abrir o Projeto no Visual Studio Code
+
+1. **Abra o Visual Studio Code**:
+   - Inicie o Visual Studio Code no seu computador.
+
+2. **Abra o Diretório do Projeto**:
+   - No VS Code, clique em **File** (Arquivo) > **Open Folder** (Abrir Pasta).
+   - Navegue até o diretório `Projeto-Pizzaria-ResTIC36` e selecione-o.
+
+## 3. Executar o Projeto com Live Server
+
+1. **Instale a Extensão Live Server** (se ainda não estiver instalada):
+   - No VS Code, vá para a aba de **Extensões** (ícone de quadrado no lado esquerdo ou pressione `Ctrl+Shift+X`).
+   - Pesquise por **"Live Server"**.
+   - Clique em **"Install"** para instalar a extensão.
+
+2. **Inicie o Live Server**:
+   - Com o projeto aberto no VS Code, clique com o botão direito do mouse no arquivo `index.html` na aba do Explorer à esquerda.
+   - Selecione **"Open with Live Server"** no menu de contexto.
+   - O Live Server abrirá uma nova aba no seu navegador padrão com o site executando.
+
+Agora você pode visualizar e interagir com o site da pizzaria em tempo real enquanto faz alterações no código. Se precisar de ajuda com mais alguma coisa, não hesite em perguntar!
+
 
 ## Tecnologias Utilizadas
 **HTML5**: Para a estruturação da página.
